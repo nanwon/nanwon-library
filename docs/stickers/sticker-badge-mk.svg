@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+<circle cx="100" cy="100" r="82" stroke="#fafafa" stroke-width="8"/>
+<circle cx="100" cy="100" r="78" stroke="#202020" stroke-width="3" stroke-dasharray="104 2 49 3 152 2 179"/>
+<circle cx="100" cy="100" r="66" stroke="#202020" stroke-width="1.5"/>
+<path d="M55 61Q100 39 145 61M55 139Q100 161 145 139" stroke="#202020" stroke-width="2" stroke-dasharray="3 5"/>
+<text x="100" y="118" text-anchor="middle" font-family="Georgia,serif" font-size="52" font-weight="700" letter-spacing="1" fill="#202020">MK</text>
+<path d="M77 90L82 89M115 105L120 104M91 114L94 113" stroke="#fafafa" stroke-width="1.3" opacity=".65"/>
+</svg>
