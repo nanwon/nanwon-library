@@ -1,6 +1,7 @@
 # The Library of Nanwon
 
-Portfolio website source and deployment repository.
+Portfolio deployment repository. The repository is private; the deployed website is intended for anyone with its link.
 
-The repository is private. Public website files will be added after disclosure review.
-Private career archives, internal documents, and unapproved data are not included.
+`out/` contains the static export of the portfolio, approved for publication by its owner on 2026-09-13. Raw career archives and working drafts are not included.
+
+The website requests search exclusion with `noindex`; this is not access control. Updates require a new export and deployment to the same site.
